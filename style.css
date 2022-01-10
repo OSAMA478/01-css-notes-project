@@ -14,15 +14,21 @@ body {
 
 .paper {
 	background-color: aqua;
+
 	position: relative;
-	/* width: 90%; */
+
 	min-width: 400px;
 	max-width: 800px;
+
 	height: 480px;
 	margin: 0 auto;
+
 	background-color: #fafafa;
+
 	box-shadow: 5px 10px 20px rgb(0, 0, 0, 0.4);
+
 	border-radius: 20px;
+
 	overflow: hidden;
 }
 
